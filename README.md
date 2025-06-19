@@ -82,5 +82,3 @@ This project demonstrates the power of data analytics in sports and can be exten
 
 ---
 
-## 📁 File Structure
-
